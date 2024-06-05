@@ -58,39 +58,9 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PierreTzt&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=swkwgi99n8q9pocr42ro74gpa&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=PierreTzt&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
-
-<div align="center">
-            <a href="https://paypal.me/PierreTouzet" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/pierretzt" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
